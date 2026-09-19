@@ -1,3 +1,3 @@
 https://trello.com/invite/b/69796a0f991ab68c49d8b460/ATTI181a09314d82b146d8d91a24a290f0e3F2BDBEC5/tablerodesafio
 
-1st commit 
+18/09/2026. Realicé el programa de calculo de promedio según 5 calificaciones ingresadas por el usuario
